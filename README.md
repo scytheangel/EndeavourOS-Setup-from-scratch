@@ -17,3 +17,10 @@ After that type sudo pacman -Syu. This will update your system and reveal if the
 <img width="1220" height="697" alt="image" src="https://github.com/user-attachments/assets/5a91054e-dd3c-45da-9861-7234a5ad891d" />
 
 As you can see this command went through meaning that setting up the mirrorlist was successful
+
+<h>Step 2: Installing neccessary applications</h>
+
+<img width="1222" height="709" alt="image" src="https://github.com/user-attachments/assets/194b36d8-8b3c-4aa6-a648-7ca259b10309" />
+
+Install fastfetch to be able to see the specs of your machine. In your terminal type: sudo pacman -S fastfetch. The file will compile and ask if you want yo proceed, type y to confirm.
+
