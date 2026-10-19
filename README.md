@@ -22,5 +22,18 @@ As you can see this command went through meaning that setting up the mirrorlist 
 
 <img width="1222" height="709" alt="image" src="https://github.com/user-attachments/assets/194b36d8-8b3c-4aa6-a648-7ca259b10309" />
 
+<img width="1131" height="480" alt="image" src="https://github.com/user-attachments/assets/63cd76ff-e0ec-4c4d-8283-a94d93a02038" />
+
+<img width="725" height="465" alt="image" src="https://github.com/user-attachments/assets/031f6e39-c1b6-4cd3-a419-928cc82bdfe3" />
+
+I consulted with ai to see what the issue was and how to fix it.
+
+<img width="1131" height="407" alt="image" src="https://github.com/user-attachments/assets/272c6ae3-fb2e-4fb0-9e29-3940a6ff9f45" />
+
+After typing in the right command you'll be asked to proceed with installation, press y
+
+<img width="1180" height="1022" alt="image" src="https://github.com/user-attachments/assets/e944d2ed-5860-4127-a73e-684b43ddee09" />
+
+
 Install fastfetch to be able to see the specs of your machine. In your terminal type: sudo pacman -S fastfetch. The file will compile and ask if you want yo proceed, type y to confirm.
 
