@@ -34,6 +34,10 @@ After typing in the right command you'll be asked to proceed with installation, 
 
 <img width="1180" height="1022" alt="image" src="https://github.com/user-attachments/assets/e944d2ed-5860-4127-a73e-684b43ddee09" />
 
+Install protonvpn. In your terminal type: sudo pacman -S proton-vpn-gtk-app. The file will compile and ask if you want yo proceed, type y to confirm.
 
-Install fastfetch to be able to see the specs of your machine. In your terminal type: sudo pacman -S fastfetch. The file will compile and ask if you want yo proceed, type y to confirm.
+<img width="1165" height="1047" alt="image" src="https://github.com/user-attachments/assets/17268312-1368-42ef-906b-4f73ab27e9c0" />
+
+
+
 
